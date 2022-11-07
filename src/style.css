@@ -1,4 +1,4 @@
-.app {
+.App {
     height: 100vh;
     padding: 0 100px;
     display: flex;
@@ -6,5 +6,11 @@
     justify-content: center;
     text-align: center;
 }
-  
-  
+
+.books{
+    display: flex;
+}
+
+.book{
+    flex:1
+}
